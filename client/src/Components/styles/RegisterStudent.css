@@ -1,0 +1,28 @@
+#registerStudentForm{
+    display: flex;
+    flex-direction: column;
+    margin: 0 30%;
+    font-family: "Times New Roman", serif;
+
+}
+#registerStudentForm> input{
+    border-radius: 15px;
+    padding:10px;
+
+}
+#btnRegisterStud{
+    margin: 0 43%;
+    width: 100px;
+    font-family: "Comic Sans MS", serif;
+    font-size: .8em;
+    background-color: #65b666;
+    border: none;
+    border-radius: 10px;
+    padding:10px;
+}
+
+#btnRegisterStud:hover{
+    cursor:pointer;
+}
+
+

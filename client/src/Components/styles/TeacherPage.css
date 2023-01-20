@@ -1,0 +1,33 @@
+#btnCreareActivitate {
+    margin: 5px 5px;
+    font-family: "Comic Sans MS", serif;
+    font-size: 1em;
+    background-color: #65b666;
+    border: none;
+    border-radius: 10px;
+    padding: 10px
+}
+
+#containerActivitati {
+    margin: 0 2%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+}
+
+.btnFeedback {
+    margin: 0px 5px;
+    font-family: "Comic Sans MS", serif;
+    font-size: 1em;
+    background-color: #cad718;
+    border: none;
+    border-radius: 10px;
+    padding: 10px
+}
+
+.btnFeedback:hover {
+    cursor: pointer;
+}
+
+#btnCreareActivitate:hover {
+    cursor: pointer;
+}

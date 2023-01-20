@@ -1,0 +1,53 @@
+.Login {
+    display: flex;
+    flex-direction: column;
+}
+
+form{
+    align-self: center;
+    font-family: "Times New Roman", serif;
+    font-size: 1.4em;
+}
+
+form > * {
+    margin:5px;
+}
+
+.inputLogin{
+    border-width: 1px;
+    border-radius: 15px;
+    /*border-color: aliceblue;*/
+    padding: 10px;
+}
+
+.lbLogin{
+    font-weight: 700;
+    display:flex
+}
+#btnRegister{
+    margin-top: 15px;
+    width: 15%;
+    align-self: center;
+    color: #8181e0;
+    border: none;
+    border-radius: 10px;
+    padding:10px
+}
+
+#btnLogin{
+    margin: 0 25%;
+    font-family: "Comic Sans MS", serif;
+    font-size: .8em;
+    background-color: #65b666;
+    border: none;
+    border-radius: 10px;
+    padding:10px
+}
+
+#btnLogin:hover{
+    cursor: pointer;
+}
+
+#btnRegister:hover{
+    cursor: pointer;
+}

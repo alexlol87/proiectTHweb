@@ -1,0 +1,18 @@
+#inputSearch{
+    border-width: 1px;
+    border-radius: 15px;
+    padding: 10px;
+}
+#btnSearch{
+    margin-left: 5px;
+    font-family: "Comic Sans MS", serif;
+    font-size: 1em;
+    background-color: #65b666;
+    border: none;
+    border-radius: 10px;
+    padding:10px
+}
+
+#containerSearch{
+    margin-left: 2%;
+}
